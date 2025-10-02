@@ -1,1 +1,2 @@
-# daywalker
+# Daywalker
+L’agent noir du Service national de renseignement, Suhyeok, reçoit pour mission d’assassiner le chef de l’organisation ‘Nanaya-gumi’ qui fait du trafic de drogue en Corée. Cependant, à sa grande surprise, le chef en question est une femme séduisante nommée Anna, qui semble totalement étrangère au monde de la violence. Quelque chose ne tourne pas rond avec cette mission. Suhyeok décide alors de se venger du Service national de renseignement qui l’a trahi, ainsi que de ‘Nanaya-gumi’ qui a exterminé ses camarades.
